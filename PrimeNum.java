@@ -51,7 +51,7 @@ public class PrimeNum {
     }
 
     private static int checkEachNumber(int number) {
-       if (number == 1) {
+       if (number < 2) {
         System.out.println("if block 1 (num == 1) NonPrime : " + number);
         return 0;
        }
@@ -63,7 +63,7 @@ public class PrimeNum {
         System.out.println("if block 3 (even) NonPrime : " + number);
         return 0;
        }
-        for (int j = 3; j < Math.sqrt(number); j +=2) {
+        for (int j = 3; j <= Math.sqrt(number); j +=2) {
             if (number % j == 0) {
                 System.out.println("for block NonPrime : " + number);
                 return 0;
