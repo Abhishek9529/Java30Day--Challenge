@@ -9,8 +9,7 @@ public class PrimeNum {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int nonPrimeCount = 0;
-        // int primeCount = 0;
+    
         int firstNumber = checkNumber(sc, "Enter 1st Number : ");
         if (firstNumber == -1)
             return;
