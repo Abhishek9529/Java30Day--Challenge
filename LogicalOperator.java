@@ -1,4 +1,4 @@
-public class Main {
+public class LogicalOperator {
 	public static void main(String[] args) {
 //				int a = 3, b = 7, c = 9;
 //		if ((a < b && b < c) || (a > c)) {
