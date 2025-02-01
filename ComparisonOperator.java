@@ -23,6 +23,13 @@ public class ComparisonOperator {
         // check if age1 is youngest or not
         // System.out.println(age1 < age2 && age1 < age3 ? "Youngest" : "Not the youngest");
 
+
+        // 3. Discount Eligibility
+        int totalbill = 5500;
+        boolean isPremium = true ; // customer has premium membership 
+        System.out.println(totalbill > 5000 && isPremium == true ? "Eligible" : " Not Eligible" ); // check if bill greater then 5000 and he has premium member then he visible for disscount
+
+
     }
 
 }
