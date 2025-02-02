@@ -35,10 +35,15 @@ public class ComparisonOperator {
         // int num = 7;
         // System.out.println((num % 3 == 0 && num % 5 == 0) ? "FizzBuss" : num % 3 == 0
         // ? "Fizz" : num % 5 == 0 ? "Buzz" : "Not divided by 3 and 5" );
-
+ 
         // 5. Voting System
         // int vot1 = 88, vot2 =90, vot3 = 24;
         // System.out.println((vot1 > vot2 || vot1 > vot3 )? "Vot1 in Leading" : "Vot1 is Not in Leading");
+
+        // 8. Two number relations
+        // int num1 = 20, num2 = 20;
+        // System.out.println(num1 > num2 ?  " num1  is greater " : num1 == num2 ? " both are equals " :  " num2 is greater ");
+        
     }
 
 }
