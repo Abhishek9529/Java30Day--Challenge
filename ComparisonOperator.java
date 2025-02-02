@@ -43,7 +43,10 @@ public class ComparisonOperator {
         // 8. Two number relations
         // int num1 = 20, num2 = 20;
         // System.out.println(num1 > num2 ?  " num1  is greater " : num1 == num2 ? " both are equals " :  " num2 is greater ");
-        
+
+        // 9. Tringle Validity Check
+        // int a = 5, b = 7, c= 9;
+        // System.out.println(a + b > c && b + c > a && a + c > b ? " Valid Tringle" : " Invalid Tringle");
     }
 
 }
