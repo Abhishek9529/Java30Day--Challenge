@@ -10,5 +10,8 @@ public class Strings {
     String name = sc.nextLine();
     // String name = "abhi";
     System.out.print("Hello " + name);
+
+    // Length()
+    System.out.println("Length : " + name.length());
     }
 }
