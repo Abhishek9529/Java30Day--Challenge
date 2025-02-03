@@ -13,5 +13,9 @@ public class Strings {
 
     // Length()
     System.out.println("Length : " + name.length());
+
+    // There are many string methods available, for example toUpperCase() and toLowerCase():
+    System.out.println("in Uppercase : "+name.toUpperCase());
+    System.out.println("in Lowercase : "+name.toLowerCase());
     }
 }
