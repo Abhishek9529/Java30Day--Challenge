@@ -22,5 +22,11 @@ public class Strings {
     // The indexOf() method returns the index (the position) of the first occurrence of a specified text in a string (including whitespace):
     // String txt = "java is a very easy language";
     // System.out.println(txt.indexOf("easy"));
+
+    //If you add two strings, the result will be a string concatenation:
+		//String str1 = "20";
+		//String str2 = "25";
+		//System.out.println(str1 + str2);    
+    
     }
 }
