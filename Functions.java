@@ -1,5 +1,15 @@
 // function in java
 public class Main {
+	//A Method with If...Else
+static void checkAge(int age){
+	if(age < 18)
+	{
+	System.out.println("Access denied");
+	}
+	else{
+	    	System.out.println("Access granted");
+	}
+}
 	public static void main(String[] args) {
 
                 float fNum1 = 12.0f, fNum2 = 8.0f, total;
@@ -14,6 +24,8 @@ public class Main {
 		String firstName = "jon", secondName = " doe", fullName = "";
 		fullName = concatinate(firstName, secondName);
 		System.out.println(fullName);
+
+		checkAge(20);
 	}
 
 // this function return sum of numbers
