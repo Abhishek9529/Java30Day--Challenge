@@ -24,9 +24,12 @@ public class Strings {
     // System.out.println(txt.indexOf("easy"));
 
     //If you add two strings, the result will be a string concatenation:
-		//String str1 = "20";
-		//String str2 = "25";
-		//System.out.println(str1 + str2);    
+    //String str1 = "20"; 
+    //String str2 = "25";
+    //System.out.println(str1 + str2); 
+
+    //Strings - Special Characters		
+    //System.out.println(" java is  \"very\"  easy  ");    
     
     }
 }
