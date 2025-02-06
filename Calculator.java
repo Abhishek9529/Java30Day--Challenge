@@ -5,7 +5,7 @@ public class Main {
 	   System.out.println("Addition : " + (num1 + num2) ) ;
 	   System.out.println("Subtract : " + (num1 - num2) ) ;
 	   System.out.println("Multiply : " + (num1 * num2) ) ;
-	     System.out.println("Division : " + (num1 / num2) ) ;
+	   System.out.println("Division : " + (num1 / num2) ) ;
 	}
 	
 	public static void main(String[] args) {
