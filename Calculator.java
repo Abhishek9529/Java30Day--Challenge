@@ -12,7 +12,7 @@ public class Main {
 	Scanner sc = new Scanner(System.in);
 	System.out.println("enter 1st number : ");
 	int num1 = sc.nextInt();	
-System.out.println("enter 2nd number : ");
+        System.out.println("enter 2nd number : ");
 	int num2 = sc.nextInt();
 		calculate(num1, num2);
 	}
