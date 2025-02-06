@@ -34,5 +34,8 @@ public class Strings {
     //The sequence \'  inserts a single quote in a string:
     //System.out.println("java is  \'very\' easy  ");
     
+    //The sequence \\  inserts a single backslash in a string:
+    //System.out.println("java is \\very\\ easy ");
+    
     }
 }
