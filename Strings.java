@@ -36,6 +36,9 @@ public class Strings {
     
     //The sequence \\  inserts a single backslash in a string:
     //System.out.println("java is \\very\\ easy ");
-    
+   	
+    // sub string in string
+	//String name = "javascript";
+	//System.out.println(name.substring(0,4)); 
     }
 }
