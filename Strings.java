@@ -52,5 +52,17 @@ public class Strings {
 	} 
 	 **/
     
+// check valid user
+//String userName = "rahul", password = "1234";
+//System.out.println("Enter your username : ");
+//String userInput = sc.nextLine();
+//System.out.println("Enter your password  : ");
+//String passInput = sc.nextLine();
+//if(userInput.equals(userName)  && passInput.equals(password) ){
+//    System.out.println("valid user");
+//}
+//else {
+//    System.out.println("invalid user");
+//}
     }
 }
