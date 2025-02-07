@@ -40,5 +40,17 @@ public class Strings {
     // sub string in string
 	//String name = "javascript";
 	//System.out.println(name.substring(0,4)); 
+
+        // string comparison
+	/** String str1 = "java";
+	String str2 = "javascript";
+	if(str1.equals(str2)){
+	    System.out.println("both strings are same");
+	}
+	else{
+	   System.out.println("both strings are differents"); 
+	} 
+	 **/
+    
     }
 }
