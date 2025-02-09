@@ -59,16 +59,16 @@ public class Strings {
        //System.out.println("Enter your password  : ");
        //String passInput = sc.nextLine();
        //if(userInput.equals(userName)  && passInput.equals(password) ){
-//    System.out.println("valid user");
-//}
-//else {
-//    System.out.println("invalid user");
-//}
+       //System.out.println("valid user");
+       //}
+       //else {
+        //    System.out.println("invalid user");
+       //}
     
-//You can also use the concat() method to concatenate two strings:
-//String str1 = "john";
-//String str2 = "Doe";
-//System.out.println(str1.concat(str2));
+      //You can also use the concat() method to concatenate two strings:
+      //String str1 = "john";
+      //String str2 = "Doe";
+      //System.out.println(str1.concat(str2));
 
 //The charAt() method returns the character at the specified index in a string.
 //String str = "java";
