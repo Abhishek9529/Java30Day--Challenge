@@ -64,5 +64,11 @@ public class Strings {
 //else {
 //    System.out.println("invalid user");
 //}
+    
+//You can also use the concat() method to concatenate two strings:
+//String str1 = "john";
+//String str2 = "Doe";
+//System.out.println(str1.concat(str2));
+    
     }
 }
