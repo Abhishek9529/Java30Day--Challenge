@@ -69,6 +69,12 @@ public class Strings {
 //String str1 = "john";
 //String str2 = "Doe";
 //System.out.println(str1.concat(str2));
-    
+
+//The charAt() method returns the character at the specified index in a string.
+//String str = "java";
+//char result = str.charAt(3);
+//System.out.println(result);	    
+
+	    
     }
 }
