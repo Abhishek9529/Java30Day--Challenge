@@ -74,7 +74,11 @@ public class Strings {
      //String str = "java";
      //char result = str.charAt(3);
      //System.out.println(result);
- 
+
+	  //The compareTo() method compares two strings lexicographically.
+//String str1 = "Java";
+//String str2 = "Java";
+//System.out.println(str1.compareTo(str2));  
 	    
    
     
