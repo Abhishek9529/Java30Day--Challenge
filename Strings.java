@@ -73,8 +73,10 @@ public class Strings {
      //The charAt() method returns the character at the specified index in a string.
      //String str = "java";
      //char result = str.charAt(3);
-     //System.out.println(result);	    
-
+     //System.out.println(result);
+ 
 	    
+   
+    
     }
 }
