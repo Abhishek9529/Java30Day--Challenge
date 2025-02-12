@@ -80,7 +80,11 @@ public class Strings {
 //String str2 = "Java";
 //System.out.println(str1.compareTo(str2));  
 	    
-   
+   //Compare two strings, ignoring lower case and upper case differences:
+String str1 = "Java";
+String str2 = "java";
+System.out.println(str1.compareToIgnoreCase(str2));
     
+  
     }
 }
