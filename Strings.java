@@ -85,6 +85,9 @@ String str1 = "Java";
 String str2 = "java";
 System.out.println(str1.compareToIgnoreCase(str2));
     
-  
+//Find out if the string ends with the specified characters:
+//String str = "Hello";
+//System.out.println(str.endsWith("o"));
+	    
     }
 }
