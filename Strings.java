@@ -89,5 +89,10 @@ System.out.println(str1.compareToIgnoreCase(str2));
 //String str = "Hello";
 //System.out.println(str.endsWith("o"));
 	    
+    //Find out if a string is empty or not:
+//String str1 = "";
+//String str2 = "Java";
+//System.out.println(str1.isEmpty());
+//System.out.println(str2.isEmpty());
     }
 }
