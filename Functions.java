@@ -1,5 +1,5 @@
 // function in java
-public class Main {
+public class Functions {
 	//A Method with If...Else
 static void checkAge(int age){
 	if(age < 18)

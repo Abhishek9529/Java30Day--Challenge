@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Calculator {
 	
 	static void calculate(int num1, int num2){
 	   System.out.println("Addition : " + (num1 + num2) ) ;
